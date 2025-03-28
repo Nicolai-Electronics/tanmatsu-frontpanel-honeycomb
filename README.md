@@ -6,6 +6,8 @@ This repository contains the hardware design files for the frontpanel of Tanmats
 
 This Kicad project makes use of [svg2shenzhen](https://github.com/badgeek/svg2shenzhen) to convert a vector graphics design file (SVG) into a Kicad footprint.
 
+When manufacturing these boards select **0.8mm** board thickness, **ENIG** surface finish and **Remove Mark**.
+
 ## License
 
 This hardware design may be used under the terms of the [CERN-OHL-P](LICENSE) license.
