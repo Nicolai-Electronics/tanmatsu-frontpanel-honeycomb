@@ -12,9 +12,9 @@ When manufacturing these boards select **0.8mm** board thickness, **ENIG** surfa
 
 This hardware design may be used under the terms of the [CERN-OHL-P](LICENSE) license.
 
-**All organization names, logos, trademarks and artwork including but not limited to the Nicolai Electronics and Tanmatsu branding are all rights reserved for their respective owners and may not be reproduced on derrivative works.**
+**All organization names, logos, trademarks and artwork including but not limited to the Nicolai Electronics and Tanmatsu branding are all rights reserved for their respective owners and may not be reproduced on derivative works.**
 
-Note that the CERN-OHL-P license does require attribution: please make sure to include the copyright statement below in all derrivative works.
+Note that the CERN-OHL-P license does require attribution: please make sure to include the copyright statement below in all derivative works.
 
 ## Authors
 
